@@ -1,0 +1,101 @@
+Beneficiary.gender.code,Base.DRG.code,ICD9.primary.procedure.code,DRG.quintile.average.payment.amount,Inpatient.days.code,Beneficiary.Age.category.code
+female,Diabetes,No procedure performed,3447,2-3 days,80 - 84 
+male,Other digestive system O.R. procedures,Other abdomen region ops,34878,8 or more days,Under  65 
+female,Female reproductive system reconstructive procedures,Vagina & cul-de-sac ops,3352,1 day,65 - 69 
+male,G.I. hemorrhage,Intest incis/excis/anast,2690,2-3 days,Under  65 
+female,Alcohol/drug abuse or dependence w/o rehabilitation therapy,No procedure performed,2713,8 or more days,65 - 69 
+male,Alcohol/drug abuse or dependence w/o rehabilitation therapy,Psyche related procedure,9143,2-3 days,Under  65 
+female,Psychoses,No procedure performed,17931,8 or more days,85 & Older
+female,Rehabilitation,"Pt, rehab & related proc",11343,8 or more days,Under  65 
+male,Permanent cardiac pacemaker implant,Other heart/pericard ops,11955,2-3 days,80 - 84 
+female,Traumatic stupor & coma,No procedure performed,6480,8 or more days,85 & Older
+male,Rehabilitation,No procedure performed,27592,8 or more days,65 - 69 
+male,Permanent cardiac pacemaker implant,Other heart/pericard ops,16309,2-3 days,Under  65 
+male,G.I. hemorrhage,No procedure performed,10348,8 or more days,85 & Older
+female,G.I. hemorrhage,Vessel inc/excis/occlus,10348,2-3 days,85 & Older
+male,Psychoses,No procedure performed,7737,2-3 days,Under  65 
+female,Diabetes,No procedure performed,1904,2-3 days,85 & Older
+female,Psychoses,No procedure performed,1367,2-3 days,Under  65 
+male,Renal failure,Other nonoperative proc,5864,2-3 days,75 - 79 
+female,G.I. hemorrhage,Other nonoperative proc,2690,2-3 days,85 & Older
+female,G.I. hemorrhage,Intest incis/excis/anast,2690,2-3 days,80 - 84 
+female,Psychoses,No procedure performed,1367,2-3 days,70 - 74 
+male,Permanent cardiac pacemaker implant,Other heart/pericard ops,23354,1 day,75 - 79 
+female,Renal failure,Other dx radiology,6979,8 or more days,70 - 74 
+female,Diabetes,No procedure performed,10001,8 or more days,85 & Older
+female,G.I. hemorrhage,Intest incis/excis/anast,4537,2-3 days,80 - 84 
+female,Permanent cardiac pacemaker implant,Other heart/pericard ops,11955,2-3 days,70 - 74 
+female,G.I. hemorrhage,Other nonoperative proc,2690,2-3 days,75 - 79 
+male,Psychoses,No procedure performed,1367,8 or more days,Under  65 
+female,Psychoses,No procedure performed,7737,8 or more days,Under  65 
+female,Diabetes,No procedure performed,3447,1 day,80 - 84 
+female,Renal failure,Intest incis/excis/anast,3434,8 or more days,85 & Older
+male,Renal failure,No procedure performed,3434,2-3 days,75 - 79 
+male,Rehabilitation,No procedure performed,14618,8 or more days,65 - 69 
+female,Permanent cardiac pacemaker implant,Other heart/pericard ops,8274,2-3 days,80 - 84 
+male,Renal failure,No procedure performed,3434,2-3 days,85 & Older
+female,Female reproductive system reconstructive procedures,Other urinary tract ops,1914,1 day,65 - 69 
+male,Rehabilitation,No procedure performed,5642,2-3 days,70 - 74 
+female,G.I. hemorrhage,Intest incis/excis/anast,2690,2-3 days,75 - 79 
+female,Rehabilitation,No procedure performed,5642,8 or more days,80 - 84 
+male,Rehabilitation,"Pt, rehab & related proc",27592,8 or more days,80 - 84 
+male,Permanent cardiac pacemaker implant,Not elsewhere classified,16309,1 day,75 - 79 
+female,Rehabilitation,No procedure performed,18333,8 or more days,75 - 79 
+female,Psychoses,No procedure performed,17931,8 or more days,75 - 79 
+female,Psychoses,No procedure performed,3636,2-3 days,Under  65 
+female,Psychoses,No procedure performed,7737,8 or more days,65 - 69 
+male,Rehabilitation,No procedure performed,5642,2-3 days,65 - 69 
+female,Psychoses,No procedure performed,3636,8 or more days,Under  65 
+male,Permanent cardiac pacemaker implant,Not elsewhere classified,23354,1 day,80 - 84 
+male,Psychoses,Psyche related procedure,17931,8 or more days,Under  65 
+female,Renal failure,Other ops on vessels,6979,8 or more days,75 - 79 
+female,Psychoses,No procedure performed,7737,8 or more days,Under  65 
+male,Rehabilitation,"Pt, rehab & related proc",5642,8 or more days,80 - 84 
+male,Psychoses,No procedure performed,7737,8 or more days,80 - 84 
+male,Rehabilitation,No procedure performed,11343,8 or more days,75 - 79 
+female,Rehabilitation,No procedure performed,14618,8 or more days,75 - 79 
+male,Psychoses,Psyche related procedure,1367,1 day,Under  65 
+female,Renal failure,No procedure performed,3434,2-3 days,70 - 74 
+male,Psychoses,No procedure performed,7737,8 or more days,Under  65 
+female,Psychoses,No procedure performed,1367,2-3 days,Under  65 
+female,Renal failure,No procedure performed,3434,2-3 days,65 - 69 
+female,Psychoses,No procedure performed,17931,8 or more days,65 - 69 
+female,Female reproductive system reconstructive procedures,Vagina & cul-de-sac ops,3680,2-3 days,80 - 84 
+female,Psychoses,No procedure performed,17931,8 or more days,Under  65 
+male,Rehabilitation,"Pt, rehab & related proc",5642,8 or more days,Under  65 
+male,Rehabilitation,No procedure performed,5642,8 or more days,85 & Older
+female,Psychoses,No procedure performed,3636,8 or more days,Under  65 
+female,Diabetes,No procedure performed,1904,2-3 days,85 & Older
+female,Psychoses,No procedure performed,5193,2-3 days,Under  65 
+male,Permanent cardiac pacemaker implant,Other heart/pericard ops,8274,8 or more days,85 & Older
+female,G.I. hemorrhage,Gastric incision/excis,5409,2-3 days,70 - 74 
+female,Rehabilitation,No procedure performed,18333,8 or more days,85 & Older
+female,Renal failure,Vessel inc/excis/occlus,13113,8 or more days,65 - 69 
+male,Psychoses,No procedure performed,5193,2-3 days,Under  65 
+male,Diabetes,No procedure performed,3447,1 day,Under  65 
+female,G.I. hemorrhage,Intest incis/excis/anast,4537,2-3 days,75 - 79 
+male,G.I. hemorrhage,Intest incis/excis/anast,2690,2-3 days,85 & Older
+male,Diabetes,No procedure performed,4318,1 day,75 - 79 
+female,Psychoses,No procedure performed,7737,8 or more days,Under  65 
+male,Psychoses,No procedure performed,17931,8 or more days,Under  65 
+male,Psychoses,No procedure performed,17931,8 or more days,Under  65 
+female,Rehabilitation,"Pt, rehab & related proc",5642,8 or more days,65 - 69 
+female,Renal failure,No procedure performed,3434,2-3 days,80 - 84 
+male,Rehabilitation,No procedure performed,18333,8 or more days,Under  65 
+female,Renal failure,Vessel inc/excis/occlus,6979,8 or more days,Under  65 
+female,Renal failure,No procedure performed,3434,2-3 days,80 - 84 
+male,Psychoses,Psyche related procedure,17931,8 or more days,Under  65 
+female,Rehabilitation,No procedure performed,14618,8 or more days,75 - 79 
+male,Rehabilitation,"Pt, rehab & related proc",27592,8 or more days,65 - 69 
+female,Psychoses,No procedure performed,3636,2-3 days,Under  65 
+male,Psychoses,No procedure performed,5193,8 or more days,Under  65 
+male,G.I. hemorrhage,Intest incis/excis/anast,6645,2-3 days,80 - 84 
+female,Diabetes,Skin & subq operations,5497,2-3 days,Under  65 
+female,Female reproductive system reconstructive procedures,Vagina & cul-de-sac ops,5784,1 day,70 - 74 
+female,Psychoses,No procedure performed,5193,8 or more days,65 - 69 
+male,Alcohol/drug abuse or dependence w/o rehabilitation therapy,No procedure performed,9143,2-3 days,85 & Older
+male,Renal failure,Vessel inc/excis/occlus,13113,8 or more days,Under  65 
+female,Psychoses,No procedure performed,7737,8 or more days,Under  65 
+male,Psychoses,Psyche related procedure,3636,2-3 days,Under  65 
+male,Rehabilitation,No procedure performed,27592,8 or more days,65 - 69 
+male,G.I. hemorrhage,Intest incis/excis/anast,6645,2-3 days,75 - 79 
